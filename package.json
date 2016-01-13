@@ -1,0 +1,15 @@
+{
+  "name": "flot-orderBars",
+  "description": "OrderBars plugin for Flot forked from Emmerich/flot-orderBars",
+  "version": "0.0.1",
+  "homepage": "https://github.com/gubler/flot-orderBars",
+  "author": {
+    "name": "Daryl Gubler",
+    "email": "daryl@dev88.co",
+    "url": "http://dev88.co"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gubler/flot-orderBars"
+  }
+}
